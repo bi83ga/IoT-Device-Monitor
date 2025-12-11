@@ -1,0 +1,17 @@
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.csproj.AssemblyReference.cache
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.AssemblyInfoInputs.cache
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.AssemblyInfo.cs
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.csproj.CoreCompileInputs.cache
+C:\girls\bin\Debug\net8.0\IoTDeviceMonitor.exe
+C:\girls\bin\Debug\net8.0\IoTDeviceMonitor.deps.json
+C:\girls\bin\Debug\net8.0\IoTDeviceMonitor.runtimeconfig.json
+C:\girls\bin\Debug\net8.0\IoTDeviceMonitor.dll
+C:\girls\bin\Debug\net8.0\IoTDeviceMonitor.pdb
+C:\girls\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\girls\obj\Debug\net8.0\IoTDevic.1B0FF228.Up2Date
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.dll
+C:\girls\obj\Debug\net8.0\refint\IoTDeviceMonitor.dll
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.pdb
+C:\girls\obj\Debug\net8.0\IoTDeviceMonitor.genruntimeconfig.cache
+C:\girls\obj\Debug\net8.0\ref\IoTDeviceMonitor.dll
